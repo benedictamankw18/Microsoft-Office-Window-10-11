@@ -183,7 +183,7 @@ your Windows is activated successfully.
 
 **Be curious 🤍**
 
-[![Telegram](https://img.shields.io/badge/TELEGRAM-blue.svg?logo=telegram)](https://t.me/Kali0Nethunter) [![Whatsapp](https://img.shields.io/badge/TWITTER-blue.svg?logo=x)](https://twitter.com/NiREvil_)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-blue.svg?logo=telegram)](https://t.me/Kali0Nethunter) [![WhatsApp](https://img.shields.io/badge/WhatsApp-green.svg?logo=whatsapp)](https://wa.me/+233594500785)  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
